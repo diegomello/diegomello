@@ -14,10 +14,10 @@
   <img align="center" alt="Diego-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Diego-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
   <img align="center" alt="Diego-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Diego-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Diego-NodeJS" height="30" width="40" src="https://devicons.io/devicons/icons/nodejs-icon.svg">
   <img align="center" alt="Diego-Claude" height="30" width="40" src="https://devicons.io/devicons/icons/claude-icon.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://devicons.io/devicons/icons/java.svg">
-  
+  <img align="center" alt="Diego-Java" height="30" width="40" src="https://devicons.io/devicons/icons/java.svg">
+  <img align="center" alt="Diego-VSC" height="30" width="40" src="https://devicons.io/devicons/icons/visual-studio-code.svg">
   </div>
   
   ##
