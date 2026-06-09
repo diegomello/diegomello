@@ -15,7 +15,7 @@
   <img align="center" alt="Diego-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
   <img align="center" alt="Diego-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Diego-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Diego-PS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java.svg">
+  <img align="center" alt="Diego-Claude" height="30" width="40" src="https://devicons.io/devicons/icons/claude-icon.svg">
   <img align="center" alt="Diego-Ae" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg">
   </div>
   
